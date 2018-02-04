@@ -1,0 +1,6 @@
+numpy
+pandas
+jupyter
+plotnine
+git+https://github.com/eco32i/nlabpy.git
+bash_kernel
